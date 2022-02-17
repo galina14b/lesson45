@@ -1,0 +1,65 @@
+body {
+    max-width: 1120px;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.input-group {
+    margin-top: 50px;
+}
+
+.btn {
+    width: 200px;
+    margin-left: 50px;
+}
+
+.text-display {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.title {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.img {
+    width: 50%;
+    display: block;
+    margin: 30px auto;
+}
+
+.buttons {
+    display: flex;
+    max-width: 800px;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.first-btn {
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: red;
+}
+
+.second-btn {
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+.show-result {
+    position: absolute;
+    top: 790px;
+    left: 402px
+}
